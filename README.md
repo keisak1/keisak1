@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Topography App](https://github.com/ufpnuno/topography-project)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Dart**
 
 - 💬 Ask me about **anything**
 
