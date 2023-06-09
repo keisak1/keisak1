@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nuno</h1>
 <h3 align="center">A passionate computer science student from Portugal</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ufpnuno" alt="ufpnuno" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keisak1" alt="keisak1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/lilyamatoe" target="blank"><img src="https://img.shields.io/twitter/follow/lilyamatoe?logo=twitter&style=for-the-badge" alt="lilyamatoe" /></a> </p>
 
