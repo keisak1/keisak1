@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nuno</h1>
+  <h1 align="center">Hi 👋, I'm Nuno</h1>
 <h3 align="center">A passionate computer science student from Portugal</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keisak1" alt="keisak1" /></a> </p>
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Topography App](https://github.com/ufpnuno/topography-project)
 
-- 🌱 I’m currently learning **Dart**
+- 🌱 I’m currently learning **Go**
 
 - 💬 Ask me about **anything**
 
