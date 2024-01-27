@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/lilyamatoe" target="blank"><img src="https://img.shields.io/twitter/follow/lilyamatoe?logo=twitter&style=for-the-badge" alt="lilyamatoe" /></a> </p>
 
-- 🔭 I’m currently working on [WellBeing_App](https://github.com/keisak1/WellBeing))
+- 🔭 I’m currently working on [WellBeing_App](https://github.com/keisak1/WellBeing)
 
 - 🌱 I’m currently learning **Kotlin**
 
